@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5f0535071a394ad071e779750f074da8.js"
+  "/precache-manifest.febf8d279e73928e4c8a2dbf9e14e902.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "makes-stores-admin"});
